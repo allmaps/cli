@@ -14,7 +14,7 @@ __TODO__:
   - [ ] Turn multiple maps into single GeoTIFF or map tile set
   - [ ] Turn `iiif-image.js` into CLI tool (accept args)
 
-__To run the examples in this README, clone the [`cli-examples`]() repository.__
+__To run the examples in this README, clone the [`cli-examples`](https://github.com/allmaps/cli-examples) repository in the same directory where you have cloned this repository.__
 
 ## IIIF tiles from image files
 
