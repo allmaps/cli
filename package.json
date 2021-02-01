@@ -1,0 +1,26 @@
+{
+  "name": "@allmaps/cli",
+  "version": "1.0.0",
+  "description": "Allmaps command-line tools",
+  "bin": {
+    "iiif-tiles": "./iiif-tiles.js"
+  },
+  "author": {
+    "name": "Bert Spaan",
+    "email": "hello@bertspaan.nl",
+    "url": "https://bertspaan.nl"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/allmaps/cli.git"
+  },
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "@allmaps/annotation": "^1.0.0-alpha.9",
+    "@allmaps/transform": "^1.0.0-alpha.3",
+    "axios": "^0.21.1",
+    "mkdirp": "^1.0.4",
+    "sharp": "^0.26.3",
+    "yargs": "^16.1.1"
+  }
+}
