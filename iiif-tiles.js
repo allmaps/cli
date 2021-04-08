@@ -50,7 +50,7 @@ sharp(argv.image)
       host = host.substring(0, host.length - 1)
     }
 
-    imageInfo['@id'] = imageInfo['@id'].replace('https://example.com', host)
+    imageInfo['@id'] = imageInfo['@id'].replace('https://example.com/iiif', host)
     fs.writeFileSync(imageInfoFilename, JSON.stringify(imageInfo, null, 2))
 
     console.log('Done...')
