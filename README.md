@@ -1,5 +1,7 @@
 # Allmaps - Command Line Tools
 
+__This repository has been archived. Allmaps CLI has moved to https://github.com/allmaps/allmaps.__
+
 Clone this repository:
 
     git clone https://github.com/allmaps/cli.git
